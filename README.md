@@ -2,7 +2,7 @@
 <img src="https://imgur.com/ldEKU5o.jpeg" alt="Azure logo"/>
 </p>
 
-Project 1: Set Up an Azure Environment and Implement IAM Roles for Access Control
+Project: Set Up an Azure Environment and Implement IAM Roles for Access Control
 
 This project focuses on creating an Azure environment and configuring Identity and Access Management (IAM) roles to control access to Azure resources. This will provide you with practical experience in managing access, securing resources, and understanding the structure of Azure IAM. The format follows the structure from your IAM roles and policies project on GitHub.
 
